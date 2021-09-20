@@ -19,32 +19,28 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      medium: '',
-    }
+    name: '에디',
+    photo: '/eddy-desc.png',
+    bio: '잘하기보다 자라기',
+    // contacts: {
+    //   email: '',
+    //   facebook: '#',
+    //   telegram: '#',
+    //   twitter: '#',
+    //   github: '#',
+    //   rss: '',
+    //   vkontakte: '',
+    //   linkedin: '#',
+    //   instagram: '#',
+    //   line: '',
+    //   gitlab: '',
+    //   weibo: '',
+    //   codepen: '',
+    //   youtube: '',
+    //   soundcloud: '',
+    //   medium: '',
+    // }
   }
 };
