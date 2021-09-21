@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: '에디송의 블로그',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -21,9 +21,9 @@ module.exports = {
     },
   ],
   author: {
-    name: '에디',
-    photo: '/eddy-desc.png',
-    bio: '잘하기보다 자라기',
+    name: '에디송',
+    photo: '',
+    bio: '개발 공부 기록',
     contacts: {
       email: '',
       facebook: '#',
