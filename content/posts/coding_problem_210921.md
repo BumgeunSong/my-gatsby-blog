@@ -1,8 +1,21 @@
-# Merge Intervals [Searching, Medium]
-
+---
+title: 추석 트래픽의 최대 처리량 구하기 
+date: "2021-09-20T22:41:32.169Z"
+template: "post"
+draft: false
+slug: "coding-problem-210920"
+category: "Coding Problem"
+tags:
+  - "Javascript"
+  - "Alagorithm"
+  - "Web Development"
+description: "2018 KAKAO, Lv.3"
+socialImage: "/media/coding_problem/chuseok.png"
+---
 21.09.21
 
-## 문제
+# Merge Intervals [Sorting, Medium]
+from Leetcode
 
 - [start_i, end_i] 로 이뤄진 `interval` 배열의 배열 `intervals`가 주어진다.
 - 겹치는 `interval`를 합친 뒤에, 서로 겹치지 않는 `interval`의 배열로 return 하라.
