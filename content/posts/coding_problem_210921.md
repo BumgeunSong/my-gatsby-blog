@@ -1,19 +1,18 @@
 ---
-title: 추석 트래픽의 최대 처리량 구하기 
-date: "2021-09-20T22:41:32.169Z"
+title: 구간 합치기 
+date: "2021-09-21T15:41:32.169Z"
 template: "post"
 draft: false
-slug: "coding-problem-210920"
+slug: "coding-problem-210921"
 category: "Coding Problem"
 tags:
   - "Javascript"
   - "Alagorithm"
-  - "Web Development"
-description: "2018 KAKAO, Lv.3"
-socialImage: "/media/coding_problem/chuseok.png"
+  - "Sorting"
+description: "Sorting, Medium"
+socialImage: ""
 ---
 21.09.21
-
 # Merge Intervals [Sorting, Medium]
 from Leetcode
 

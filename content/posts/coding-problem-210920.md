@@ -10,7 +10,7 @@ tags:
   - "Alagorithm"
   - "Web Development"
 description: "2018 KAKAO, Lv.3"
-socialImage: "/media/coding_problem/chuseok.png"
+socialImage: ""
 ---
 2021.09.20
 
@@ -50,7 +50,7 @@ from programmers
 - 출력: 7
 - 설명: 아래 타임라인 그림에서 빨간색으로 표시된 1초 각 구간의 처리량을 구해보면 `(1)`은 4개, `(2)`는 7개, `(3)`는 2개임을 알 수 있다. 따라서 **초당 최대 처리량**은 7이 되며, 동일한 최대 처리량을 갖는 1초 구간은 여러 개 존재할 수 있으므로 이 문제에서는 구간이 아닌 개수만 출력한다.
 
-    ![http://t1.kakaocdn.net/welcome2018/chuseok-01-v5.png](/media/coding_problem/chuseok.png)
+    ![chuseok](~/public/static/chuseok.png)
 
 ---
 
